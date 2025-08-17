@@ -7,7 +7,7 @@ You get **the yacht price predictor that slaps harder than market waves.** 🌊
 
 This is **not just another ML project** — it’s a full-blown **Cerebra-style neural beast** trained to understand the deep layers of yacht pricing. With accuracy, flair, and an **interactive CLI control panel**, it’s your co-captain in navigating the seas of fair yacht valuation.  
 
-🔥 Built with love, caffeine, and innovation by **Muhammad Shaheer** & **Irmak Güney**.  
+🔥 Built with caffeine, and innovation by **Muhammad Shaheer** & **Irmak Güney**.  
 
 ---
 
