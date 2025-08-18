@@ -1,6 +1,6 @@
 # 🚤 Cerebra Yacht Price Predictor  
 
-### The Future of Yacht Pricing, Reimagined. 
+### The Future of Pricing not just of boats but anything as a whole :), Reimagined. 
 
 What happens when **AI engineering passion** meets **next-level Cerebra-inspired design**?  
 You get **the yacht price predictor that slaps harder than market waves.** 🌊  
